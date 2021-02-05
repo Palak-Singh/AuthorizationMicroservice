@@ -1,0 +1,128 @@
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.exe
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.deps.json
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.runtimeconfig.json
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.runtimeconfig.dev.json
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.pdb
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.csprojAssemblyReference.cache
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.AssemblyInfoInputs.cache
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.AssemblyInfo.cs
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.csproj.CoreCompileInputs.cache
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/staticwebassets/AuthorizationService.StaticWebAssets.Manifest.cache
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/staticwebassets/AuthorizationService.StaticWebAssets.xml
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/scopedcss/bundle/AuthorizationService.styles.css
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.RazorTargetAssemblyInfo.cache
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.csproj.CopyComplete
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.pdb
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.genruntimeconfig.cache
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/877666/source/repos/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.deps.json
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.runtimeconfig.json
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.runtimeconfig.dev.json
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/AuthorizationService.pdb
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.csprojAssemblyReference.cache
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.AssemblyInfoInputs.cache
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.AssemblyInfo.cs
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.csproj.CoreCompileInputs.cache
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/staticwebassets/AuthorizationService.StaticWebAssets.Manifest.cache
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/staticwebassets/AuthorizationService.StaticWebAssets.xml
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/scopedcss/bundle/AuthorizationService.styles.css
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.RazorTargetAssemblyInfo.cache
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.csproj.CopyComplete
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.dll
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.pdb
+/Users/sreekarreddy/Downloads/AuthorizationService (1)/AuthorizationService/AuthorizationService/obj/Debug/netcoreapp3.1/AuthorizationService.genruntimeconfig.cache
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\PALAK\Desktop\ProjectFinalFiles\AuthorizationService (1)\AuthorizationService\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache

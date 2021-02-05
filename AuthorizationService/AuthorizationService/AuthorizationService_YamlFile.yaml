@@ -1,0 +1,34 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authorizationservice-deployment
+  labels:
+    app: AuthorizationService
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: AuthorizationService  
+  template:
+    metadata:
+      labels:
+        app: AuthorizationService
+    spec:
+      containers:
+      - name: authorizationservice
+        image: myfirstazurecr.azurecr.io/myfirstazurereo:latest
+        ports:
+        - containerPort: 8181
+      imagePullSecrets:
+      - name: authorizationsvcsecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: authorizationservicesvc
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 81
+  selector:
+    app: AuthorizationService

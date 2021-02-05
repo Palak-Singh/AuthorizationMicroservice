@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{76BE4802-91DD-4124-8455-B24CE7189FD3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthorizationService/Controllers/AuthenticateController.cs">
+    <Files>
+      <File FileName="AuthorizationService/Controllers/AuthenticateController.cs" Line="58" Column="57" />
+      <File FileName="AuthorizationService/Repository/AuthenticationRepository.cs" />
+      <File FileName="AuthorizationService/Repository/IAuthenticationRepository.cs" />
+      <File FileName="AuthorizationService/Models/Helper.cs" Line="14" Column="6" />
+      <File FileName="AuthorizationService/Models/User.cs" Line="1" Column="1" />
+      <File FileName="AuthorizationService/Program.cs" Line="16" Column="1" />
+      <File FileName="AuthorizationService/Properties/launchSettings.json" Line="31" Column="29" />
+      <File FileName="AuthorizationService/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthorizationService" expanded="True">
+            <Node name="AuthorizationService" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthenticateController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AuthorizationService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
