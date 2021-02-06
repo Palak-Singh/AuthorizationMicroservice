@@ -20,7 +20,7 @@ spec:
         ports:
         - containerPort: 8181
       imagePullSecrets:
-      - name: authorizationsvcsecret
+      - name: mailorderpharmacysvcsecret
 ---
 apiVersion: v1
 kind: Service
